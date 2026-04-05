@@ -1,14 +1,8 @@
 /*
-Created by Benjamin Chu
-Contact: allthelosersare@gmail.com
-Date Modified: March 5th, 2013
+Pixel Animation by Benjamin Chu
 Project: Pixel Animation in HTML5 & Javascript
-Version: 1.0
-(c) 2013 - intechnicolor.net
-- Please give credit where credit is due.  Please don't copy and claim as your own.
-*/
-/*
-  Pixel Animation by Benjamin Chu
+Version: 2.0
+(c) 2026 - intechnicolor.net
 */
 
 (() => {
