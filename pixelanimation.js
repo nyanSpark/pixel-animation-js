@@ -134,7 +134,7 @@ Version: 2.0
     255,
     255, 255, 255, 255, 255, 255, 255, 255, 255,
     255, 255, 255, 255, 255, 255, 255, 255, 255,
-    255, 255, 255, 255, 255, 255, 255
+    255, 255, 255, 255, 255, 255
   ];
 
   const pixelCount = locXArray.length;
@@ -286,7 +286,3 @@ Version: 2.0
   createPixels();
   requestFrame(draw);
 })();
-	// Recursively draw again
-	requestAnimationFrame(draw);
-}
-// end
